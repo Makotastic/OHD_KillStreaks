@@ -2,8 +2,8 @@
 
 This repository contains Unreal Engine assets for killstreak / vehicles, including:
 
-- AC130 Vehicle
-- UAV Drone
+- AC130 Vehicle  (https://youtu.be/48eaA17xPrc)
+- UAV Drone      (https://youtu.be/6rOLrGGCXbI)
 
 
 ## Demoing vehicles
